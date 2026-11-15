@@ -1,0 +1,35 @@
+{
+  "versao": 1,
+  "referencia": "2026-11",
+  "atualizadoEm": "2026-11-15",
+  "aviso": "Taxas de referência publicadas pelas próprias empresas. Planos sem número = sem referência pública confirmada (preencha com a taxa do seu contrato). Confira sempre no seu contrato.",
+  "marcas": [
+    { "marca": "Cielo", "tipo": "cartao", "fonte": "sem tabela pública padrão confirmada (taxa negociada por contrato)", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Contrato do posto", "obs": "sem referência" } ] },
+    { "marca": "Stone", "tipo": "cartao", "fonte": "sem tabela pública padrão confirmada (taxa negociada por contrato)", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Contrato do posto", "obs": "sem referência" } ] },
+    { "marca": "PagBank", "tipo": "cartao", "fonte": "fontes divergentes (blog oficial antigo × comparadores); não confirmado", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Padrão", "obs": "sem referência" } ] },
+    { "marca": "Mercado Pago", "tipo": "cartao", "fonte": "página oficial de taxas não acessível na consulta; não confirmado", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Point (padrão)", "obs": "sem referência" } ] },
+    { "marca": "InfinitePay", "tipo": "cartao", "fonte": "https://www.infinitepay.io/maquininha (tabela por faturamento mensal)", "consultadoEm": "2026-11-15",
+      "planos": [
+        { "nome": "Até R$ 20 mil/mês", "deb": 0.0137, "cred": 0.0315, "pix": 0 },
+        { "nome": "Acima de R$ 20 mil/mês", "deb": 0.0085, "cred": 0.0289, "pix": 0 },
+        { "nome": "Acima de R$ 40 mil/mês", "deb": 0.0079, "cred": 0.0279, "pix": 0 },
+        { "nome": "Acima de R$ 80 mil/mês", "deb": 0.0075, "cred": 0.0269, "pix": 0 }
+      ] },
+    { "marca": "Ton", "tipo": "cartao", "fonte": "taxas variam por modelo/plano e as fontes divergem; não confirmado", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Padrão", "obs": "sem referência" } ] },
+    { "marca": "SumUp", "tipo": "cartao", "fonte": "https://www.sumup.com/pt-br/maquininhas/ (taxas anunciadas, depois da promoção de 30 dias)", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Padrão (site)", "deb": 0.0099, "cred": 0.0349, "pix": 0 } ] },
+    { "marca": "Rede", "tipo": "cartao", "fonte": "sem tabela pública padrão confirmada (taxa negociada por contrato)", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Contrato do posto", "obs": "sem referência" } ] },
+    { "marca": "Getnet", "tipo": "cartao", "fonte": "sem tabela pública padrão confirmada (taxa negociada por contrato)", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Contrato do posto", "obs": "sem referência" } ] },
+    { "marca": "Ticket Log", "tipo": "ticket", "fonte": "taxa de convênio negociada por contrato; sem tabela pública", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Contrato do posto", "obs": "sem referência" } ] },
+    { "marca": "Outra (manual)", "tipo": "cartao", "fonte": "digite as taxas do seu contrato", "consultadoEm": "2026-11-15",
+      "planos": [ { "nome": "Manual", "obs": "sem referência" } ] }
+  ]
+}
